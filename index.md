@@ -8,3 +8,6 @@ added a header to this file
 print("hello")
 ```
 
+- [ ] sigma
+- [ ] super
+- [ ] sussy
